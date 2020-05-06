@@ -77,11 +77,31 @@
 }
 
 .author_bio_lighter {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .follow_button {
   margin-left: 3px;
+}
+
+.fa-facebook:before {
+  color: #4167b2;
+  margin: 0 1px;
+}
+
+.fa-linkedin:before {
+  color: #0077b5;
+  margin: 0 1px;
+}
+
+.fa-twitter:before {
+  color: #2caae1;
+  margin: 0 1px;
+}
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
 }
 
 
